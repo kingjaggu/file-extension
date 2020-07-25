@@ -1,0 +1,10 @@
+input("input the file name",file)
+print("extension of file is")
+if file.find('.py')
+   print('python')
+elif file.find('.c')
+   print(c language)
+elif file.find('.cpp')
+   print(c++)
+else
+   print("not c,c++,python)
